@@ -1,0 +1,14 @@
+{
+  "name": "nexus-ai",
+  "version": "1.0.0",
+  "description": "NEXUS AI - Programmer & Academic Mentor (aplikasi chat lokal)",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js",
+    "overlay": "electron ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
